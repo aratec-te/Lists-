@@ -1,0 +1,49 @@
+Lists-
+======
+A curated list of amazingly awesome free (stock) photo resources for your projects. Inspired by all the other awesome awesomeness out there.
+
+AllTheFreeStock - CC0 images. Some of the video requires attribution
+fancycrave.com - royalty free high resolution images for your personal and commercial projects
+flickr.com - internet archive book images, no known copyright restrictions
+foodiesfeed.com - food images, free of licences
+getrefe.tumblr.com - photos of people interacting with technology for personal or commercial projects
+gratisography.com - all pictures are free of copyright restrictions
+imcreator.com - requires attribution
+jaymantri.com - entirely free of copyrights. 7 new photos every thursday.
+kaboompics.com
+lifeofpix.com - images for personal & commercial use. all images are donated to the public domain
+littlevisuals.co - entirely free of copyrights. updated almost daily.
+lockandstockphotos.com - requires attribution
+magdeleine.co - hand picked, most images are free of licences
+morguefile.com - no attribution required
+moveast.me - a guy on a photographic journey. all images are CC0
+nos.twnsnd.co - vintage images, free of any copyright restrictions
+pexels.com - beautiful collection of photos, free of licenses
+picjumbo.com - totally free photos for your commercial & personal works
+picography.co - free of licences
+publicdomainarchive.com - public domain images
+publicphoto.org - public domain photos
+raumrot.com
+snapographic.com - free of licences
+splitshire.com - delicious free stock photos for personal & commercial use
+startupstockphotos.com - startup related photos, free of licences
+superfamous.com - requires attribution
+titania-foto.com - german, no attribution required, only resale on other stock image websites forbidden
+travelcoffeebook.com 10 beautiful travel photos every 10 days. - all images are CC0
+unsplash.com - free of licences
+wefunction.com - free of licences
+Contributing
+
+I want this to become a truly awesome resource. Devs should be able to take a look and choose a great resource without googling for hours.
+
+If you have any suggestions on how to make this better, open an issue.
+If you have a resource to contribute, make a pull request. Please just use add resource.com in your commit message.
+Please keep the format in alphabetical order.
+In vim: Select the lines to be sorted in "Visual Line" mode with Shift + V and invoke the "sort" function with :sort.
+In SublimeText: Just select the lines to be sorted and hit F5.
+Please make sure the provider isn't some EvilCorp™ that'll send nice letters with a hefty price tag through their attorneys later on.
+
+ToDo
+
+figure out which data beside the licences is interesting/important
+figure out a good way to format and represent the data
